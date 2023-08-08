@@ -13,5 +13,7 @@ public class Perro {
     private int a;
     private int b;
     private int c;
+    private String hola;
+  
     
 }
