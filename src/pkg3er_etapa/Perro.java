@@ -10,5 +10,8 @@ package pkg3er_etapa;
  * @author Mi PC
  */
 public class Perro {
-    private int edad;
+    private int a;
+    private int b;
+    private int c;
+    
 }
